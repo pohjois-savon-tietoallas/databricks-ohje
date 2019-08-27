@@ -9,3 +9,25 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## Databricks
+### Taustatietoa
+### Spark
+
+## Kulsterit
+### Tautatietoa
+### Klusterin luominen
+### Klusterin käynnistäminen
+
+## Notebookit
+### Taustatietoa
+### Notebookin luominen
+### Notebookin käyttäminen
+
+## R
+### R:n käyttäminen Databricksissa
+### Yhteensopivat paketit
+
+## Python
+### Pythonin käyttäminen Databricksissa
+### Yhteensopivat paketit
